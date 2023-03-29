@@ -33,7 +33,7 @@
       
       exploit
 
-***How to use***:
+***How to use commands***:
 
       set rhost | set command ...               
       
