@@ -2,7 +2,7 @@
 
 
 ###### Install
-> git clone https://github.com/Rayan25062011/lsf/edit/main/README.md
+> git clone https://github.com/Rayan25062011/lsf
 
 > chmod +x modules
 
