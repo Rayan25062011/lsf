@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lsflogo.png" width="300">
+  <img src="lsflogo.PNG" width="300">
   <h1 align="center">lsf</h1>
   <p align="center">The LogiSploit framework</p>
 </p>
