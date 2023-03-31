@@ -17,32 +17,3 @@
 
 > python3 lsf.py
 
-###### How to use
-
-***Commands***:
-
-      set
-      
-      use
-      
-      run shell
-      
-      wipe
-      
-      isexploit
-      
-      exploit
-
-***How to use commands***:
-
-      set rhost | set command ...               
-      
-      use payloads/exploits/takedown & default
-      
-      run shell                          					
-      
-      wipe															            
-      
-      isexploit													           
-      
-      exploit 														         
