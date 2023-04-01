@@ -231,19 +231,7 @@ while True:
       else:
          print(f"{red}[-]{reset} No malicious packet sent")
 
-   if "show isrunning packet.process" == grab:
-      s = socket.socket()
-      print(f"{blue}[*]{reset} Communicating with packet")
-      time.sleep(1)
-      print(f"{blue}[*]{reset} Getting process")
-      time.sleep(0.3)
-      s.connect((rhost, 443))
-      s.send(b"!IIIIIIIIIII")
-      data = s.recv(1028)
-      if data == b'\x15\x03\x01\x00\x02\x02F':
-         print(f"{green}PACKET IS RUNNING PROCESS{reset}")
-      else:
-         print(f"{red}PACKET IS NOT RUNNING ANY PROCESS{reset}")
+
 
 
    if "help" == grab:
