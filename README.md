@@ -18,6 +18,11 @@
 > python3 lsf.py
 
 
+
+## Disclamer
+~~~The author is not responsible for any damage delt by the user~~~
+
+
 ###### Photo example
 
 
