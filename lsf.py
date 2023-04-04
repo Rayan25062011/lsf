@@ -49,8 +49,6 @@ print(f"""
 
 ----[ {yellow} version 0.1.4{reset}             ]----
 ----[ {yellow} Android & Windows expoits{reset} ]----
-----[ {yellow} Hacking toolkit{reset} 				]----
-
 
 
 """)
