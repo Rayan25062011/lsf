@@ -47,7 +47,7 @@ print(f"""
     /---/ \___.'  /    
                     
 
-----[ {yellow} version 0.1.4{reset}             ]----
+----[ {yellow} version 0.1.8{reset}             ]----
 ----[ {yellow} Android & Windows expoits{reset} ]----
 
 
@@ -319,17 +319,19 @@ while True:
       use default
       set command ...
       exploit
-      quit
       isexploit
       wipe
       run shell
       show packet status
       show packet info
+      update
+      quit
 
       new logipreter.session
       	spawn sniffer
          new qconn
          db.exploit
+         exit
 
 
       """)
