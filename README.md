@@ -24,7 +24,7 @@
 
 
 ## Help?
-Run the 'help' command in lsf console for the list of commands you can use
+Run the ~~~'help'~~~ command in lsf console for the list of commands you can use
 
 
 ###### Photo example
