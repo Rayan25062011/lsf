@@ -133,7 +133,7 @@ while True:
       spl2 = "db"
       resl2 = org2.split(spl2)[1]
       dbaddr = resl2
-      dbaddr = rhost.translate({ord(' '): None})
+      dbaddr = dbaddr.translate({ord(' '): None})
 
       print(f"{red}db{reset} => {dbaddr}")
       dbadd = True
