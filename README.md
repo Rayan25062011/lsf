@@ -30,4 +30,5 @@ Run the **'help'** command in lsf console for the list of commands you can use
 ###### Photo example
 
 
-![image](https://user-images.githubusercontent.com/101386337/229138049-4209b1a1-f17b-46bf-a0aa-641ac4f18e70.jpeg)
+![image](https://user-images.githubusercontent.com/101386337/230545517-2ba8c716-61af-4f8d-8ab7-f75a45989d38.jpeg)
+
