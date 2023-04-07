@@ -29,12 +29,15 @@ yellow = "\033[33m"
 console = Console()
 
 console.print("[    ] Making validators")
+valid = True
 time.sleep(2.1)
 console.print("[ [bold green]ok[white] ]")
 console.print("[    ] Creating checkers")
+check = True
 time.sleep(2.4)
 console.print("[ [bold green]ok[white] ]")
 console.print("[    ] Generating payloads")
+makepayloads = True
 time.sleep(0.4)
 console.print("[ [bold green]ok[white] ]")
 console.print("[    ] Creating exploits")
