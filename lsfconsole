@@ -123,9 +123,9 @@ while True:
    elif "set rport" in grab:
       org_ = grab
       spl_ = "rport"
-      res_ = org_.split(spl_)[1]
-      port = res_
-      port = port.translate({ord(' '): None})
+      res_ = int(org_.split(spl_)[1])
+      port = int(res_)
+      int(port)
 
       print(f"rport ⟹ {port}")
 
