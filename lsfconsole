@@ -418,11 +418,10 @@ while True:
       exit:shell
       update
 
-      new logipreter.session
+      start logipreter
          spawn sniffer
          new qconn
          db.exploit
-         db.shutdown
          db.erase
 
 
