@@ -431,9 +431,11 @@ while True:
    elif "update" == grab:
       print(f"{blue}[*]{reset} Updating")
       os.system("git clone https://github.com/Rayan25062011/lsf")
-      os.system("chmod +x modules")
-      os.system("python3 lsf.py")
+      os.system("lsfconsole")
 
 
    else:
-      print(f"{red}[-]{reset} '{grab}' not understood")
+      if grab == "":
+         pass
+      else:
+         print(f"{red}[-]{reset} '{grab}' not understood")
