@@ -11,11 +11,9 @@
 
 
 ###### Install
-> git clone https://github.com/Rayan25062011/lsf
+> git clone https://github.com/Rayan25062011/lsf ***[ENTER]***
 
-> chmod +x modules
-
-> python3 lsf.py
+> lsfconsole ***[ENTER]***
 
 
 
