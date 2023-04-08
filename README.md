@@ -28,5 +28,5 @@ Run the **'help'** command in lsf console for the list of commands you can use
 ###### Photo example
 
 
-![image](https://user-images.githubusercontent.com/101386337/230545517-2ba8c716-61af-4f8d-8ab7-f75a45989d38.jpeg)
+![image](https://user-images.githubusercontent.com/101386337/230712418-985b6b90-6e8b-4392-812b-7b1ed2370bee.jpeg)
 
