@@ -17,7 +17,7 @@
 ###### Install
 > git clone https://github.com/Rayan25062011/lsf ***[ENTER]***
 
-> lsfconsole ***[ENTER]***
+> lsfterm ***[ENTER]***
 
 
 
