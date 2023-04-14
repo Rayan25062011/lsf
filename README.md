@@ -28,10 +28,3 @@
 ## Help?
 Run the **'help'** command in lsf console for the list of commands you can use
 
-
-###### Photo example
-
-
-![image](https://user-images.githubusercontent.com/101386337/230712682-079cd21f-c08e-48e2-810a-a7ab166eb9d1.jpeg)
-
-
