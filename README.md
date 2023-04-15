@@ -3,8 +3,7 @@
 
 
 <p align="center">
-  <img src="39A4C84F-9956-414D-B38E-8F40E292784B.jpeg" width="300">
-  <h1 align="center">lsf</h1>
+  <h1 align="center">L.S.F</h1>
   <p align="center">The LogiSploit framework</p>
 </p>
 
