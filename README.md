@@ -10,25 +10,22 @@
 
 
 
-
-## LogiSploit Framework
-
-
-###### Install
-> git clone https://github.com/Rayan25062011/lsf ***[ENTER]***
-
-> lsfterm ***[ENTER]***
-
-
-
-## Disclamer
-! **The author is not responsible for any damage delt by the user** !
-
-
-## Help?
-Run the **'help'** command in lsf console for the list of commands you can use
-
-## Preview
-
-
-![image](https://user-images.githubusercontent.com/101386337/232086619-5d269f3f-2c7a-429f-88cb-13e465d90d3f.jpeg)
+<p align="center">
+    <bLogisploit Framework</b><br>
+    <br>
+    <a href=""><img><img src="https://www.codefactor.io/repository/github/rayan25062011/lsf/badge" alt="CodeFactor" /></a><br>
+    <br>
+    Logisploit Framework is an exploitation framework that
+    <br>possesses few but powerful exploits to remotely access a device.
+    <br>
+    <br>
+    <b>Installation</b><br>
+    <br>
+    <code>git clone https://github.com/Rayan25062011/lsf</code>
+    <br>
+    <br>
+    <b>Use</b><br>
+    <br>
+    <code>lsfterm</code>
+    <br>
+</p>
