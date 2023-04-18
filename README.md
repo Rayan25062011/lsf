@@ -24,6 +24,7 @@
     <br>
     <b>Use</b><br>
     <br>
+    <code>cd lsf</code>
     <code>lsfterm</code>
     <br>
 </p>
