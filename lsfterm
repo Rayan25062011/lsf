@@ -30,10 +30,8 @@ print("""
 """)
 
 
-
-
 while True:
 
-   print(f"┌─({blue}lsf@lsf{reset})─[{blue}~{reset}]")
-   lsf = input(f"└─────{blue}${reset} ")
+   print(f"┌─[{green}Logisploit{reset}]──[{blue}~{reset}]─[{blue}main{reset}]")
+   lsf = input(f"└─────► ")
    run(lsf)
