@@ -10,7 +10,6 @@ uses: docker/login-action@v1
 with:
 registry: ghcr.io
 username: ${{ github.actor }}
-password: ${{ secrets.GITHUB_TOKEN }}
 - name: Build the Docker image
 run: |
        docker build . --tag ghcr.io/Rayan25062011/lsf:latest
