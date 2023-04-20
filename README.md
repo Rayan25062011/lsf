@@ -25,6 +25,6 @@
     <b>Use</b><br>
     <br>
     <code>cd lsf</code>
-    <code>lsfterm</code>
+    <code>python3 lsfterm</code>
     <br>
 </p>
